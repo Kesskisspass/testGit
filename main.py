@@ -17,7 +17,11 @@ def supercool(jerome):
 def supercool(jerome2):
     return (jerome2);
 
+<<<<<<< HEAD
 # Yann tu n'as pas mis de commentaire !
+=======
+# Fonction qui retourne un nombre au carré
+>>>>>>> 3a69fa8359553fb47df42baa898e6bb4bc7029a6
 def square(a):
     return a*a
 
