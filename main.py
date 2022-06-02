@@ -10,7 +10,8 @@ def substract(a,b):
 
 def divide(a,b):
     return a/b;
-    
+
+# jérôme est dans le team    
 # Ajout commentaire main pour conflit
 # ajout commentaire sur testREbase
 # ajout commentaire sur testREbase
