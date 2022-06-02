@@ -14,7 +14,7 @@ def divide(a,b):
 def supercool(jerome):
     return (jerome);
 
-
+# Fonction qui retourne un nombre au carré
 def square(a):
     return a*a
 
