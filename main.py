@@ -27,6 +27,10 @@ def supercool(jerome2):
 def square(a):
     return a*a
 
+
+def modulo(a,b):
+    return a%b
+    
 # jérôme est dans le team    
 # Ajout commentaire main pour conflit
 # ajout commentaire sur testREbase
