@@ -1,6 +1,6 @@
 # Liste de toutes les fonctions
-def add(a,b):
-    return a+b;
+def add(a,b,c):
+    return a+b*c;# et pourquoi pas
 
 def multiply(a,b):
     return a*b;
@@ -17,7 +17,7 @@ def supercool(jerome):
 def supercool(jerome2):
     return (jerome2);
 
-# Fonction qui retourne un nombre au carré
+
 def square(a):
     return a*a
 
