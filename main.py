@@ -1,6 +1,4 @@
 # Liste de toutes les fonctions
-def addandmultiply(a,b,c):
-    return a+b*c;# et pourquoi pas
 
 def multiply(a,b):
     return a*b;
@@ -24,7 +22,7 @@ def supercool(jerome2):
 
 
 
-# Yann tu n'as pas mis de commentaire !
+# Ajout fonction square qui met un nombre au carré
 
 def square(a):
     return a*a
@@ -37,3 +35,8 @@ def modulo(a,b):
 # Ajout commentaire main pour conflit
 # ajout commentaire sur testREbase
 # ajout commentaire sur testREbase
+# Ajout aléatoire
+
+
+def addandmultiply(a,b,c):
+    return a+b*c;# et pourquoi pas
