@@ -18,6 +18,10 @@ def supercool(jerome2):
     return (jerome2);
 
 
+
+
+# Yann tu n'as pas mis de commentaire !
+
 def square(a):
     return a*a
 
