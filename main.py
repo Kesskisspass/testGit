@@ -1,5 +1,5 @@
 # Liste de toutes les fonctions
-def add(a,b,c):
+def addandmultiply(a,b,c):
     return a+b*c;# et pourquoi pas
 
 def multiply(a,b):
@@ -16,6 +16,8 @@ def supercool(jerome):
 # je sais pas programmer en python mais j'ai quand même une vie géniale deuxieme fonction
 def supercool(jerome2):
     return (jerome2);
+
+
 
 
 
